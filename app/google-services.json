@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "773274187631",
+    "project_id": "chatapp-564e8",
+    "storage_bucket": "chatapp-564e8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:773274187631:android:dc24e9d28b5bb5647d1a9a",
+        "android_client_info": {
+          "package_name": "com.example.day16database"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAL3KDg_AXTlKGbL7MY2P100qlWVQiWzB4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
